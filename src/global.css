@@ -1,0 +1,32 @@
+html, body {
+    padding:0;
+    margin:0;
+}
+
+#bars:hover {
+    opacity:0.8;
+    cursor:pointer;
+}
+
+#home:hover {
+    opacity:0.8;
+    cursor:pointer;
+}
+
+#title:hover {
+    opacity:0.8;
+    cursor:not-allowed;
+}
+
+#menu-item:hover {
+    opacity:0.8;
+    cursor:pointer;
+}
+
+#link {
+    text-decoration: none;
+}
+
+#jj:hover {
+    opacity: 0.8;
+}
